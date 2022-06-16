@@ -1,10 +1,11 @@
-# Bootcamp-Project-1
+# Horiseon-Refactor
 
 ##Description
 Refactoring code to optimize for accessibility.
 I did this project to learn about accessibiity and to practice the basic HTML and CSS skills I'm currently learning.
 While working on this project I began to see more patterns inherent in the coding languages we're learning.
 
-
+##Credits
+Original code provided by the bootcamp
 
 
